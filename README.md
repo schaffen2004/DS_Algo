@@ -3,7 +3,7 @@
 # Sorting
 
 - [x] Bubble
-- [ ] Insertion
+- [x] Insertion
 - [ ] Merge
 - [ ] Quick
 - [ ] Heap
